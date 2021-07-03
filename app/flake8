@@ -1,3 +1,2 @@
 [flake8]
-ignore =
-    settings.py
+--ignore = ./app/settings.py
